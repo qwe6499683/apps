@@ -58,7 +58,7 @@ export default {
             bottom: "50px"
           },
           legend: {
-            data: ["新增用户量", "活跃用户量"],
+            data: ["新增用户量1", "活跃用户量"],
             x: "center",
             y: "bottom"
           },
