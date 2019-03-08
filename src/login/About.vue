@@ -4,7 +4,7 @@
     <input type="text" placeholder="账号" v-model="account">
     <input type="password" placeholder="密码">
     <div @click="login" class="login">
-      登录
+      登录中..........
     </div>
   </div>
 </template>
