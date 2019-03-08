@@ -6,7 +6,7 @@
     <div @click="login" class="login">
       登录中..........
       我的吗啊 快来救我
-      妈妈啊啊啊啊啊啊
+      妈妈啊啊啊啊啊啊啊啊
     </div>
   </div>
 </template>
